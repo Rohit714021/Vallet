@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vault</string>
+    <string name="vault_subtitle">Private Offline Finance</string>
+    <string name="nav_dashboard">Vault</string>
+    <string name="nav_analytics">Trends</string>
+    <string name="nav_wealth">Wealth</string>
+    <string name="nav_settings">Security</string>
+    <string name="action_add_transaction">Log Entry</string>
+    <string name="lock_title">Obsidian Vault Locked</string>
+    <string name="lock_subtitle">Authenticate to reveal your private financial ledger</string>
+    <string name="lock_unlock_button">Unlock with Biometrics / PIN</string>
+    <string name="backup_due_banner">Yearly encrypted Google Drive backup recommended</string>
+</resources>

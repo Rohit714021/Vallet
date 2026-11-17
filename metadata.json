@@ -1,0 +1,8 @@
+{
+  "name": "Vault",
+  "description": "Local-first offline expense tracker and wealth manager with Room storage, interactive charts, daily/monthly/yearly budget alerts, investment and debt calculators, travel and yearly event tracking, biometric lock, and AES-256 encrypted Google Drive backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
